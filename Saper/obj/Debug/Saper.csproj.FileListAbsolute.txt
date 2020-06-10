@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\Saper\Saper\bin\Debug\Saper.exe.config
+C:\Users\asus\source\repos\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\asus\source\repos\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\asus\source\repos\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Saper\Saper\obj\Debug\Saper.Form1.resources
+C:\Users\asus\source\repos\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Users\asus\source\repos\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Saper\Saper\obj\Debug\Saper.exe
+C:\Users\asus\source\repos\Saper\Saper\obj\Debug\Saper.pdb
